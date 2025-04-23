@@ -1,0 +1,2 @@
+CalculadoraDivisasCLI
+Una herramienta de línea de comandos que ayuda a viajeros frecuentes a convertir su presupuesto en USD a la moneda local, usando una tasa de cambio personalizada. Construida con Typer para una experiencia simple, rápida y profesional desde la terminal.
